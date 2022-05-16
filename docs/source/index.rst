@@ -21,4 +21,4 @@ Contents
    usage
    api
  
-Lumache has its documentation hosted on Read the Docs.
+Lumache has its documentation hosted on Read the Docs. You can check it here: https://cody-read-the-docs-example.readthedocs.io/en/latest/
